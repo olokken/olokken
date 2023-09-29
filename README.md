@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=olokken)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olokken&exclude_repo=Age-Estimator,lyrics-generator)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olokken&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **olokken/olokken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
